@@ -12,7 +12,7 @@ The purpose of this project was to:
 ### Stock Analysis - 2017 vs 2018
 As depicted in the screenshots below, the results show that stocks overall had higher returns in 2017 than they did in 2018. In 2018, nearly all stocks shrunk except for ENPH and RUN. Even then, ENPH had a higher return in 2017. RUN is the only stock that had higher returns in 2018 than it did in 2017.
 
-<img src="Resources/Results_2017.png" width=75% height =75%>  <img src="Resources/Results_2018.png" width=75% height =75%> 
+<img src="Resources/Results_2017.png" width=75% height =75%>  <img src="Resources/Results_2018.png" width=25% height =25%> 
 
 ### Refactoring the VBA Code
 ![2017 Original](Resources/VBA_Original_2017.png)  ![2018 Original](Resources/VBA_Original_2018.png)
